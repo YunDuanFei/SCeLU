@@ -1,0 +1,2 @@
+1、
+	python vis_cam.py --img ./Images/rows/ --config /home/jb101a-0/projects/crelu/mmclassification/configs/resnet/resnet18/resnet18_2xb32_ReLU.py --checkpoint /home/jb101a-0/projects/crelu/mmclassification/tools/visualizations/Weights/ResNets/resnet18/ReLU/best_accuracy_top-1_epoch_100.pth --target-layers backbone.layer4.1.bn2

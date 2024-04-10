@@ -1,0 +1,9 @@
+1、
+	cd properties
+
+2、
+	bash ./script/cifar_resnet20_run.sh
+
+
+3、
+	bash ./script/cifar_resnet20_landscape.sh
