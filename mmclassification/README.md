@@ -8,11 +8,13 @@ mobilenet_v2_0.17, mobilenet_v2_0.5, mobilenet_v2_0.75, mobilenet_v2_1.0
 shufflenet_v2_0.5, shufflenet_v2_1.0, shufflenet_v2_1.5
 
 resnet18, resnet34, resnet50, resnet101
+
 ----------
 
 Supported activation functions
 --------------------------------------------------------------------------------
 Acon, CReLU, DReLU, ELU, FReLU, GeLU, MetaAcon, Mish, PReLU, ReLU6, ReLU, Swish
+
 --------------------------------------------------------------------------------
 
 Usage
